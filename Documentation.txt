@@ -1,6 +1,0 @@
-===========================================
-Database Host       :  "localhost"
-Database name       :  "abhicms"
-Database user       :  "root"
-Database password   :  " "
-===========================================
