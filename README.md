@@ -8,4 +8,4 @@ features:
 4) easy to customise to your database 
 5) simply can change database details in "config.php"
 
-Admin panel coming soon with login syste in next version
+Admin panel coming soon with login system will be aadded in next version
